@@ -28,7 +28,7 @@ EDA.
 ## VISUALIZACION
 Se utilizo power Bi para realizar el dashboard para la interpretacion de la informacion.
 
-##KPIS
+## KPIS
 Calculos y metricas realizadas
 Daily Return: Se calcula sacando el cambio porcentual entre un cierre ajustado y su anterior.
 
