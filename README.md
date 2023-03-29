@@ -30,6 +30,7 @@ Se utilizo power Bi para realizar el dashboard para la interpretacion de la info
 
 ## KPIS
 Calculos y metricas realizadas
+
 Daily Return: Se calcula sacando el cambio porcentual entre un cierre ajustado y su anterior.
 
 Media movil: Es un promedio del cierre ajustado a lo largo de un periodo particular.
